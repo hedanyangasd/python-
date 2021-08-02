@@ -1,0 +1,661 @@
+1555849389909	mozrunner::runner	INFO	Running command: "E:\\火狐\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hdy\\AppData\\Local\\Temp\\rust_mozprofile.zvZ8EOFWsoRb"
+1555849390478	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555849390478	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555849390478	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555849393721	Marionette	INFO	Listening on port 50867
+1555849393873	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 11664, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1555849413747	Marionette	INFO	Stopped listening on port 50867
+[Parent 11664, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 11664, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14[GP
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+U
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1555849937447	mozrunner::runner	INFO	Running command: "E:\\火狐\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hdy\\AppData\\Local\\Temp\\rust_mozprofile.LFmOcdc91ixq"
+1555849937994	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555849937995	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555849937995	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555849941403	Marionette	INFO	Listening on port 51028
+1555849941439	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 24: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 9: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 218: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 148: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 38: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 100: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 21: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 24: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 9: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 218: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 148: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 38: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 100: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 21: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 13748, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 13748, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 13748, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1555852774880	Marionette	INFO	Stopped listening on port 51028
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ted. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 218: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 148: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 38: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 100: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 21: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 24: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 9: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 218: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 148: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 38: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 100: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 21: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 11028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1555850325774	Marionette	INFO	Stopped listening on port 51188
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+zilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555850267803	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555850267803	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[Parent 12496, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1555850271532	Marionette	INFO	Listening on port 51309
+1555850271745	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js, line 24: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js, line 9: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js, line 218: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js, line 148: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js, line 38: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js, line 100: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js, line 21: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+[Parent 12496, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js?t=20130804.js, line 24: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js?t=20130804.js, line 9: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js?t=20130804.js, line 218: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js?t=20130804.js, line 148: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js?t=20130804.js, line 38: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js?t=20130804.js, line 100: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js?t=20130804.js, line 21: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+[Parent 12496, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 12496, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromiu[Parent 12496, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10772, Chrome_ChildThread] WARNING: pipe error: [Parent 12180, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 12180, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1555850326460	Marionette	INFO	Listening on port 51424
+[Child 4808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/comm[Child on/ipc_c1h186annel_win.cc, line 332
+0, Chrome_C[ChildhildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 111555850334557	mozrunner::runner	INFO	Running command: "E:\\火狐\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hdy\\AppData\\Local\\Temp\\rust_mozprofile.9zhDwiziCTW3"
+1555850335744	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555850335744	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555850335745	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555850339503	Marionette	INFO	Listening on port 51472
+1555850339621	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js, line 24: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js, line 9: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js, line 218: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js, line 148: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js, line 38: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js, line 100: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js, line 21: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+[Parent 12900, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 24: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 9: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 218: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 148: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 38: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 100: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 21: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1555850352442	Marionette	INFO	Stopped listening on port 51472
+[Parent 12900, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9620, Chrome_ChildThread] WARNING: pipe[Parent 12900, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 12900, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8720, Ch
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1555850381757	mozrunner::runner	INFO	Running command: "E:\\火狐\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hdy\\AppData\\Local\\Temp\\rust_mozprofile.AsH2tDyYjPPu"
+1555850382907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555850382908	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555850382908	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[Parent 6980, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 111555850386167	Marionette	INFO	Listening on port 51565
+1555850386298	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 24: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 9: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 218: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 148: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 38: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 100: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 21: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+[Parent 6980, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1555850397832	Marionette	INFO	Stopped listening on port 51565
+[Parent 6980, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1[Parent 6980, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 1178
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1555850455813	mozrunner::runner	INFO	Running command: "E:\\火狐\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hdy\\AppData\\Local\\Temp\\rust_mozprofile.WbzCski8pIVE"
+1555850456365	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555850456366	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555850456366	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555850460027	Marionette	INFO	Listening on port 51649
+1555850460247	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js, line 24: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js, line 9: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js, line 218: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js, line 148: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js, line 38: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js, line 100: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js, line 21: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1555850471901	Marionette	INFO	Stopped listening on port 51649
+[Parent 11884, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1[Parent 11884, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10220, Chrome_ChildThread] WARNING[Parent 11884, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8232
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1555850658096	mozrunner::runner	INFO	Running command: "E:\\火狐\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hdy\\AppData\\Local\\Temp\\rust_mozprofile.jRVkPGPbP3La"
+1555850658636	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555850658636	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555850658636	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555850661831	Marionette	INFO	Listening on port 51776
+1555850662074	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js, line 24: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js, line 9: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js, line 218: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js, line 148: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js, line 38: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js, line 100: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js, line 21: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js?t=20130804.js, line 24: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js?t=20130804.js, line 9: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js?t=20130804.js, line 218: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js?t=20130804.js, line 148: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js?t=20130804.js, line 38: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js?t=20130804.js, line 100: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js?t=20130804.js, line 21: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1555850677776	Marionette	INFO	Stopped listening on port 51776
+[Child 14320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14320, Chrom[Parent 9432, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1555850736476	mozrunner::runner	INFO	Running command: "E:\\火狐\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hdy\\AppData\\Local\\Temp\\rust_mozprofile.itONrQERmfsJ"
+1555850737001	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555850737001	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555850737001	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555850740470	Marionette	INFO	Listening on port 51870
+1555850740919	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 24: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 9: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 218: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 148: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 38: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 100: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 21: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js?t=20130804.js, line 24: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js?t=20130804.js, line 9: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js?t=20130804.js, line 218: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js?t=20130804.js, line 148: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js?t=20130804.js, line 38: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js?t=20130804.js, line 100: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js?t=20130804.js, line 21: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1555850753122	Marionette	INFO	Stopped listening on port 51870
+[Parent 13396, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 13396, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 13396, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 778
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1555850904524	mozrunner::runner	INFO	Running command: "E:\\火狐\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hdy\\AppData\\Local\\Temp\\rust_mozprofile.rEhTOYSbZMXo"
+1555850905026	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555850905027	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555850905027	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555850908236	Marionette	INFO	Listening on port 51988
+1555850908498	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 24: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 9: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 218: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 148: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 38: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 100: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 21: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 24: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 9: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 218: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 148: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 38: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 100: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 21: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1555850922459	Marionette	INFO	Stopped listening on port 51988
+[Parent 388, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3368[Parent 388, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1555850971433	mozrunner::runner	INFO	Running command: "E:\\火狐\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hdy\\AppData\\Local\\Temp\\rust_mozprofile.bxZGzCu2NKY7"
+1555850971941	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555850971942	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555850971942	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555850976494	mozrunner::runner	INFO	Running command: "E:\\火狐\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hdy\\AppData\\Local\\Temp\\rust_mozprofile.yXUwzApLue0A"
+1555850976976	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555850976976	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555850976976	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555850980240	Marionette	INFO	Listening on port 52102
+1555850980446	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 24: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 9: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 218: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 148: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 38: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 100: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 21: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js?t=20130804.js, line 24: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js?t=20130804.js, line 9: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js?t=20130804.js, line 218: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js?t=20130804.js, line 148: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js?t=20130804.js, line 38: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js?t=20130804.js, line 100: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js?t=20130804.js, line 21: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1555850996147	Marionette	INFO	Stopped listening on port 52102
+[Parent 9660, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13840, Chr[Child 11988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 9660, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5944, Chrome_
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 7
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1555851105048	mozrunner::runner	INFO	Running command: "E:\\火狐\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hdy\\AppData\\Local\\Temp\\rust_mozprofile.O7CxPu1ePNO8"
+1555851105534	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555851105534	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555851105534	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555851108835	Marionette	INFO	Listening on port 52226
+1555851109012	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 24: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 9: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 218: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 148: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 38: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 100: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 21: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+[Parent 7800, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js?t=20130804.js, line 24: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js?t=20130804.js, line 9: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js?t=20130804.js, line 218: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js?t=20130804.js, line 148: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js?t=20130804.js, line 38: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js?t=20130804.js, line 100: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js?t=20130804.js, line 21: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1555851123328	Marionette	INFO	Stopped listening on port 52226
+[Parent 7800, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 7800, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10888[Parent 7800, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 50
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1555851142557	mozrunner::runner	INFO	Running command: "E:\\火狐\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hdy\\AppData\\Local\\Temp\\rust_mozprofile.YrpxGLX6Sqly"
+1555851143070	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555851143070	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555851143070	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[Parent 5264, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 651555851146332	Marionette	INFO	Listening on port 52322
+1555851146524	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 24: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 9: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 218: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 148: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 38: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 100: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 21: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 24: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 9: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 218: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 148: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 38: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 100: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 21: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1555851161436	Marionette	INFO	Stopped listening on port 52322
+[Parent 5264, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1184, Chrome_Chi[Parent 5264, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1555851737170	mozrunner::runner	INFO	Running command: "E:\\火狐\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hdy\\AppData\\Local\\Temp\\rust_mozprofile.aC1ZYBHleWjO"
+1555851737694	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555851737761	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555851737761	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555851740803	Marionette	INFO	Listening on port 52531
+1555851741202	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 24: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 9: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 218: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 148: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 38: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 100: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 21: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 24: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 9: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 218: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 148: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 38: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 100: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 21: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1555851756506	Marionette	INFO	Stopped listening on port 52531
+[Parent 9604, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1555851856566	mozrunner::runner	INFO	Running command: "E:\\火狐\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hdy\\AppData\\Local\\Temp\\rust_mozprofile.0y44IePGNZrX"
+1555851857299	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555851857300	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555851857300	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[Parent 10068, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1141555851860681	Marionette	INFO	Listening on port 52634
+1555851863845	mozrunner::runner	INFO	Running command: "E:\\火狐\\firefox.exe" "-mario[Parent 10068, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 10068, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/sr[Parent 10068, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11555851890741	Marionette	INFO	Stopped listening on port 52634
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+32
+[Child 7680, Chrome_ChildTh[Parent 4556, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 491555851886140	Marionette	INFO	Stopped listening on port 52671
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU1555851897068	mozrunner::runner	INFO	Running command: "E:\\火狐\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hdy\\AppData\\Local\\Temp\\rust_mozprofile.BDD8kCdM2zFu"
+1555851897573	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555851897574	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555851897574	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555851900929	Marionette	INFO	Listening on port 52734
+1555851901010	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 24: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 9: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 218: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 148: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 38: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 100: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 21: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+[Parent 16216, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 16216, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 16216, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11555851944519	Marionette	INFO	Stopped listening on port 52734
+[GPU 8
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1555851956206	mozrunner::runner	INFO	Running command: "E:\\火狐\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hdy\\AppData\\Local\\Temp\\rust_mozprofile.CWHJlcbaVbG1"
+1555851956713	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555851956713	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555851956713	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555851960099	Marionette	INFO	Listening on port 52861
+1555851960159	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 24: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 9: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 218: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 148: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 38: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 100: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 21: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1555851976453	Marionette	INFO	Stopped listening on port 52861
+[Parent 4160, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4180, C[Parent 4160, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5[GP
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+U
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1555852014700	mozrunner::runner	INFO	Running command: "E:\\火狐\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hdy\\AppData\\Local\\Temp\\rust_mozprofile.ugRun3BBJ4x0"
+1555852015283	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555852015284	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555852015284	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555852018659	Marionette	INFO	Listening on port 52980
+1555852018676	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 24: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 9: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 218: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 148: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 38: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 100: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 21: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 24: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 9: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 218: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 148: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 38: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 100: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 21: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1555852036937	Marionette	INFO	Stopped listening on port 52980
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 14876, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15736[Parent 14876, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15832, Chrome_ChildThread] WARNING: pipe error
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 6220
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1555852208288	mozrunner::runner	INFO	Running command: "E:\\火狐\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hdy\\AppData\\Local\\Temp\\rust_mozprofile.hRNuieBCBwDq"
+1555852208813	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555852208814	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555852208814	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555852211856	Marionette	INFO	Listening on port 53084
+1555852212261	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 24: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 9: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 218: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 148: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 38: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 100: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 21: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+[Parent 16228, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 24: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 9: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 218: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 148: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 38: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 100: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 21: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1555852228935	Marionette	INFO	Stopped listening on port 53084
+[Parent 16228, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1555852256310	mozrunner::runner	INFO	Running command: "E:\\火狐\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hdy\\AppData\\Local\\Temp\\rust_mozprofile.9tp7uJG4NkIB"
+1555852256824	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555852256831	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555852256831	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555852260072	Marionette	INFO	Listening on port 53213
+1555852260283	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 74: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.contentType]
+1555852270464	Marionette	INFO	Stopped listening on port 53213
+[Child 5180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_wi[Parent 7268, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6048, Chrome_C[Parent 7268, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[1555852322849	mozrunner::runner	INFO	Running command: "E:\\火狐\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hdy\\AppData\\Local\\Temp\\rust_mozprofile.ZVB0Bs74ABCZ"
+1555852323345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555852323345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555852323345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555852326877	Marionette	INFO	Listening on port 53291
+1555852327326	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 24: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 9: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 218: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 148: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 38: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 100: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 21: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+[Parent 10212, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 24: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 9: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 218: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 148: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 38: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 100: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js?t=20130804.js, line 21: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1555852341089	Marionette	INFO	Stopped listening on port 53291
+[Parent 10212, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15868, Chrome_ChildThread] WARNING:[Parent 10212, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1555852382230	mozrunner::runner	INFO	Running command: "E:\\火狐\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hdy\\AppData\\Local\\Temp\\rust_mozprofile.PpCtkA9pRHgs"
+1555852385137	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555852385137	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555852385137	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555852388708	Marionette	INFO	Listening on port 53396
+1555852388942	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 24: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 9: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 218: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 148: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 38: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 100: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/compiler-min.js,overlay-min.js, line 21: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js?t=20130804.js, line 24: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js?t=20130804.js, line 9: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js?t=20130804.js, line 218: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js?t=20130804.js, line 148: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js?t=20130804.js, line 38: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js?t=20130804.js, line 100: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/kissy/k/1.4.14/??swf-min.js,xtemplate-min.js,xtemplate/runtime-min.js,xtemplate/compiler-min.js,overlay-min.js,component/container-min.js,component/control-min.js,component/manager-min.js,component/extension/shim-min.js,component/extension/align-min.js,component/extension/content-xtpl-min.js,component/extension/content-render-min.js?t=20130804.js, line 21: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1555852403663	Marionette	INFO	Stopped listening on port 53396
+[Parent 8828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 8828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 8828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 52
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
